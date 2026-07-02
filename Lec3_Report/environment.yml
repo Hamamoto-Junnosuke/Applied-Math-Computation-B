@@ -1,0 +1,7 @@
+name: lec3-iit
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
