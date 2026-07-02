@@ -1,5 +1,7 @@
 # Lecture 3 Report – IIT Example: 2-node COPY System
 
+![IIT COPY system plot](iit_copy_phi.png)
+
 ## Overview
 
 This report illustrates an example of **Integrated Information Theory (IIT)**
@@ -37,8 +39,6 @@ that neither part carries alone. So **Φ > 0**.
 ---
 
 ## Result
-
-![IIT COPY system plot](iit_copy_phi.png)
 
 Φ rises smoothly from 0 to 1 bit as the copy probability increases from 0.5 to 1.0,
 showing that **causal integration** is what drives integrated information.
