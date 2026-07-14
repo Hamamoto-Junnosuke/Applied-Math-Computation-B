@@ -1,0 +1,8 @@
+name: appliedmath
+channels:
+  - defaults
+dependencies:
+  - scipy
+  - numpy
+  - python=3.12
+  - matplotlib
