@@ -3,6 +3,8 @@
 Report assignment, Lecture 5 (Introduction to Applied Mathematics and Computation B, 2026 Q2).
 Topic 1: *a Morse decomposition of a one- or two-dimensional dynamical system*.
 
+![Morse decomposition of x' = x - x^3](morse_decomposition.png)
+
 ## Files
 
 | file | content |
